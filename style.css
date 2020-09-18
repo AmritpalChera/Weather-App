@@ -1,0 +1,25 @@
+
+
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+body{
+    background: linear-gradient(#cce6ff, #3399ff, #0059b3) no-repeat center center fixed;
+    background-size: cover;
+}
+  
+.banner {
+    margin-top: 3rem;
+    color: #000000;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+#feels-li{
+    font-size: smaller;
+    color: red;
+    font-weight: 500;
+}
